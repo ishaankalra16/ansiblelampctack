@@ -1,5 +1,5 @@
 ## Lamp Stack Application
-A simple application depoloyed and configured with the help of ansible. 
+A simple application deployed and configured with the help of ansible. 
 
 ## Tasks:
 
